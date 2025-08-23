@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Shubham Sadashiv Mali</h1>
+<h1 align="center">Hi 👋, I'm Shubham Mali</h1>
 <h3 align="center">🎓 Final Year Computer Science Student | 💻 Developer | 📊 Data Enthusiast ✨ A passionate frontend & full-stack developer from India 🚀 Interested in AI, ML, and real-world impactful projects</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamx18&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamx18" /> </p>
+- 🌱 I’m currently learning **Python Libraries: NumPy, Pandas, Matplotlib, Scikit-learn Machine Learning Concepts: Regression, Classification, Model Evaluation**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamx18" alt="shubhamx18" /></a> </p>
+- 📫 How to reach me **shubhamx2004s@gmail.com**
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- ⚡ Fun fact **I think I am funny, but my compiler doesn’t agree.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shubham mali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham mali" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-mali-498362352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-mali-498362352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/wfjvxy4pch/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/wfjvxy4pch/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamx18&show_icons=true&locale=en&layout=compact" alt="shubhamx18" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamx18&show_icons=true&locale=en" alt="shubhamx18" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamx18&" alt="shubhamx18" /></p>
