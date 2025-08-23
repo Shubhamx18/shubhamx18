@@ -60,4 +60,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/shubhamx18/shubhamx18/output/snake.svg" alt="Snake animation" />
-
