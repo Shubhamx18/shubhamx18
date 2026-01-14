@@ -3,19 +3,28 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/shubham-mali-498362352" target="_blank"><img src="https://img.shields.io/badge/📡_LINKEDIN_PROFESSIONAL-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://leetcode.com/u/wfjvxy4pch/" target="_blank"><img src="https://img.shields.io/badge/⚔️_ALGORITHM_MASTERY-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:shubhamx2004s@gmail.com"><img src="https://img.shields.io/badge/✉️_SECURE_MAIL-D14836?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://linkedin.com/in/shubham-mali-498362352" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/shubhamx18" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/wfjvxy4pch/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:shubhamx2004s@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=400&color=7000ff&center=true&vCenter=true&width=600&lines=Accessing+System+Core...;Building+Scalable+Products;Deploying+ML+Pipelines;Optimizing+Logic+Streams" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=400&color=7000ff&center=true&vCenter=true&width=600&lines=Accessing+System+Core...;Building+Scalable+Products;Deploying+ML+Pipelines;Optimizing+Logic+Streams" />
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Degree-B.E._Computer_Science-00f2ff?style=flat-square&logo=gitbook&logoColor=black" />
-  <img src="https://img.shields.io/badge/Timeline-2022--2026-7000ff?style=flat-square&logo=clock&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Applied_Machine_Learning-white?style=flat-square&logo=scikitlearn&logoColor=black" />
+  <img src="https://img.shields.io/badge/Degree-B.E._Computer_Science-00f2ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Timeline-2022--2026-7000ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Applied_Machine_Learning-white?style=flat-square" />
 </p>
 
 ---
@@ -23,12 +32,12 @@
 ### 💻 System Manifesto: /root/shubham/portfolio
 *Engineering high-performance solutions for a borderless digital world.*
 
-> I am a performance-driven developer based in India, operating with a global mindset. I bridge the gap between **Robust Full-Stack Engineering** and **Data Intelligence**. I don't just write code; I architect solutions that solve real-world problems at scale.
+> I am a performance-driven developer based in India, operating with a global mindset. I bridge the gap between **Robust Full-Stack Engineering** and **Data Intelligence**.
 
-- 🔭 **Current Mission:** Mastering Large Language Model (LLM) integration and Distributed Systems.
-- 🧪 **Data Science:** Turning raw data into intelligence using **NumPy**, **Pandas**, and **Matplotlib**.
-- ⚙️ **Infrastructure:** Scaling applications through **Docker** containerization and **AWS** cloud architecture.
-- 🌍 **Goal:** To innovate within international tech ecosystems and contribute to high-impact projects.
+- 🔭 Current focus on advanced software systems
+- 🧪 Working with data and machine learning
+- ⚙️ Using cloud and container tools
+- 🌍 Aiming to build impactful products
 
 ---
 
@@ -41,40 +50,33 @@
 ---
 
 ### 🧠 The Machine Learning Pipeline
-*Implementing scientific rigor from ingestion to deployment.*
 
-
-
-| **Intelligence & Analytics** | **Systems & DevOps** |
+| Intelligence & Analytics | Systems & DevOps |
 | :--- | :--- |
-| 📊 **Analysis:** NumPy, Pandas, Scipy | 🐳 **Deployment:** Docker & Linux |
-| 📉 **BI & Viz:** Power BI Dashboards | ☁️ **Cloud:** AWS Ecosystem |
-| 🧪 **Core Logic:** Python, Java, C++ | ⚙️ **Automation:** CI/CD & Git |
+| NumPy, Pandas, Scipy | Docker, Linux |
+| Power BI | AWS |
+| Python, Java, C++ | CI/CD, Git |
 
 ---
 
-### 📊 Global Performance Analytics
+### 📈 GitHub Activity
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shubhamx18&show_icons=true&theme=transparent&title_color=7000ff&icon_color=00f2ff&text_color=ffffff&bg_color=0D1117&hide_border=false&border_radius=15" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamx18&layout=compact&theme=transparent&title_color=7000ff&icon_color=00f2ff&text_color=ffffff&bg_color=0D1117&hide_border=false&border_radius=15" width="41%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamx18&theme=transparent&fire=00f2ff&stroke=7000ff&background=0D1117&border_radius=15" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamx18&show_icons=true&theme=transparent&title_color=7000ff&icon_color=00f2ff&text_color=ffffff&bg_color=0D1117&border_radius=15" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamx18&theme=transparent&fire=00f2ff&stroke=7000ff&background=0D1117&border_radius=15" width="41%" />
 </p>
 
 ---
 
-### 🏆 Algorithm Central (LeetCode)
+### 🧩 Language Usage
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=wfjvxy4pch&theme=dark&font=Fira%20Code" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamx18&layout=compact&theme=transparent&title_color=7000ff&icon_color=00f2ff&text_color=ffffff&bg_color=0D1117&border_radius=15" width="45%" />
 </p>
 
 ---
 
 ### 🐍 Logic Stream Evolution
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shubhamx18/shubhamx18/output/snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/shubhamx18/shubhamx18/output/snake.svg" />
 </p>
 
 ---
