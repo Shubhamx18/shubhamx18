@@ -61,15 +61,18 @@
 
 ### 📈 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamx18&show_icons=true&theme=transparent&title_color=7000ff&icon_color=00f2ff&text_color=ffffff&bg_color=0D1117&border_radius=15" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamx18&theme=transparent&fire=00f2ff&stroke=7000ff&background=0D1117&border_radius=15" width="41%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamx18&show_icons=true&theme=transparent&title_color=7000ff&icon_color=00f2ff&text_color=ffffff&bg_color=0D1117&border_radius=15" width="70%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamx18&theme=transparent&fire=00f2ff&stroke=7000ff&background=0D1117&border_radius=15" width="70%" />
 </p>
 
 ---
 
 ### 🧩 Language Usage
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamx18&layout=compact&theme=transparent&title_color=7000ff&icon_color=00f2ff&text_color=ffffff&bg_color=0D1117&border_radius=15" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamx18&layout=compact&theme=transparent&title_color=7000ff&icon_color=00f2ff&text_color=ffffff&bg_color=0D1117&border_radius=15" width="60%" />
 </p>
 
 ---
