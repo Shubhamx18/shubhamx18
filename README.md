@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/shubham-mali-498362352" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/shubhamx18" target="_blank">
+  <a href="https://shubhamx18.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/wfjvxy4pch/" target="_blank">
