@@ -2,8 +2,9 @@
  <!-- ========================= HEADER ========================= -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,00f2ff,30,7000ff,60,00f2ff,100,7000ff&height=340&section=header&text=SHUBHAM%20MALI&fontSize=80&fontAlignY=43&animation=fadeIn&desc=COMPUTER%20SCIENCE%20ENGINEER%20◆%20FULL-STACK%20◆%20DEVOPS%20◆%20AI&descAlignY=66&descSize=24"
+    src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&secondaryColor=7000ff&height=200&section=header&text=SHUBHAM%20MALI&fontSize=60&fontAlignY=40&desc=FULL-STACK%20%E2%97%86%20DEVOPS%20%E2%97%86%20AI%20ENGINEER&descAlignY=65&descSize=16&animation=fadeIn"
     alt="Shubham Mali Header"
+    width="800" 
   />
 </p>
 
