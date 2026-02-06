@@ -1,40 +1,22 @@
-<div align="center">
-
-<!-- Animated Header with Glitch Effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7000ff,00f2ff,7000ff,00f2ff,7000ff&height=200&section=header&animation=twinkling&fontColor=ffffff"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=7000FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=SHUBHAM+MALI;%E2%9A%A1+FULL-STACK+DEVELOPER+%E2%9A%A1" alt="Typing SVG" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=00F2FF&center=true&vCenter=true&width=800&lines=Computer+Science+Engineer+%7C+B.E.+2022-2026;Building+Scalable+Cloud+Solutions;Machine+Learning+%26+Data+Intelligence;Turning+Coffee+into+Code+%E2%98%95%EF%B8%8F%F0%9F%92%BB" alt="Typing SVG" />
-
-<!-- Animated Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhamx18&label=Profile%20Views&color=7000ff&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/shubhamx18?label=Followers&style=for-the-badge&color=00f2ff&labelColor=7000ff" alt="followers" />
-  <img src="https://img.shields.io/badge/Focus-Applied%20ML-00f2ff?style=for-the-badge&logo=tensorflow&logoColor=white" alt="focus" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,00f2ff,30,7000ff,60,00f2ff,100,7000ff&height=340&section=header&text=SHUBHAM%20MALI&fontSize=92&fontAlignY=45&animation=fadeIn&desc=COMPUTER%20SCIENCE%20ENGINEER%20◆%20FULL-STACK%20◆%20DEVOPS%20◆%20AI&descAlignY=66&descSize=24" />
 </p>
 
-<!-- Social Links with Hover Animation -->
+<!-- ========================= LINKS ========================= -->
 <p align="center">
   <a href="https://linkedin.com/in/shubham-mali-498362352" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://shubhamx18.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/wfjvxy4pch/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="mailto:shubhamx2004s@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/shubhamx18" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-</div>
-
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
