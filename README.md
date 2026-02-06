@@ -1,24 +1,36 @@
+
+ <!-- ========================= HEADER ========================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,00f2ff,30,7000ff,60,00f2ff,100,7000ff&height=340&section=header&text=SHUBHAM%20MALI&fontSize=92&fontAlignY=45&animation=fadeIn&desc=COMPUTER%20SCIENCE%20ENGINEER%20◆%20FULL-STACK%20◆%20DEVOPS%20◆%20AI&descAlignY=66&descSize=24" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,00f2ff,30,7000ff,60,00f2ff,100,7000ff&height=340&section=header&text=SHUBHAM%20MALI&fontSize=80&fontAlignY=43&animation=fadeIn&desc=COMPUTER%20SCIENCE%20ENGINEER%20◆%20FULL-STACK%20◆%20DEVOPS%20◆%20AI&descAlignY=66&descSize=24"
+    alt="Shubham Mali Header"
+  />
 </p>
 
-<!-- ========================= LINKS ========================= -->
+<!-- ========================= SOCIAL LINKS ========================= -->
 <p align="center">
   <a href="https://linkedin.com/in/shubham-mali-498362352" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://shubhamx18.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/wfjvxy4pch/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="mailto:shubhamx2004s@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ========================= DIVIDER ========================= -->
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+    alt="Divider"
+    width="85%"
+  />
+</p>
 
 <div align="center">
 
@@ -76,22 +88,6 @@ My interests sit at the intersection of **full-stack development**, **data**, an
 
 <div align="center">
 
-## 🐍 CONTRIBUTION SNAKE
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhamx18/shubhamx18/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhamx18/shubhamx18/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shubhamx18/shubhamx18/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
 ## 🎵 SPOTIFY PLAYING
 
 [![Spotify](https://novatorem-shubhamx18.vercel.app/api/spotify)](https://open.spotify.com/user/31l5bfo7wb3osgrd4pqzne7mhfge)
@@ -135,6 +131,19 @@ My interests sit at the intersection of **full-stack development**, **data**, an
 
 <div align="center">
 
+<div align="center">
+
+## 🧠 CONTRIBUTION SIMULATION — GAME OF LIFE
+
+<img
+  src="https://github.com/Platane/contribution-game-of-life/raw/output/game-of-life.svg"
+  alt="github contribution game of life animation"
+/>
+
+</div>
+
+<div align="center">
+
 <p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7000ff,00f2ff,7000ff,00f2ff,7000ff&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
 </p>
@@ -144,6 +153,8 @@ My interests sit at the intersection of **full-stack development**, **data**, an
 </p>
 
 </div>
+
+
 
 ---
 
