@@ -26,75 +26,35 @@
 
 </div>
 
-```typescript
-const shubham = {
-    pronouns: "He" | "Him",
-    location: "India 🇮🇳",
-    education: {
-        degree: "B.E. Computer Science",
-        timeline: "2022 - 2026",
-        focus: "Applied Machine Learning & Cloud Systems"
-    },
-    currentFocus: [
-        "Building High-Performance Software Systems",
-        "Machine Learning & Data Intelligence",
-        "Cloud-Native Architecture & DevOps",
-        "Open Source Contributions"
-    ],
-    techStack: {
-        languages: ["Python", "Java", "C++", "C", "JavaScript", "PHP"],
-        frontend: ["HTML5", "CSS3", "JavaScript"],
-        backend: ["PHP", "MySQL"],
-        ml_data: ["NumPy", "Pandas", "SciPy", "Power BI"],
-        cloud_devops: ["Docker", "AWS", "Linux", "Git", "CI/CD"],
-        tools: ["VSCode", "Postman", "GitHub"]
-    },
-    currentlyLearning: "Advanced ML Pipelines & Microservices",
-    funFact: "I debug with console.log() and I'm not ashamed! 🚀"
-};
-```
+## 💻 System Manifesto  
+**Path:** `/root/shubham/portfolio`
+
+I enjoy building software that actually works at scale — from backend logic to deployment.  
+My interests sit at the intersection of **full-stack development**, **data**, and **cloud-based systems**, where performance and reliability matter.
+
+- 🔭 Actively working on strengthening system design and backend fundamentals  
+- 🧪 Applying data analysis and machine learning to practical problems  
+- ⚙️ Using cloud and container tools to understand real-world deployment  
+- 🌍 Focused on building projects with real use cases, not just demos  
+
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> TECH ARSENAL <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+### 🚀 Technical Proficiency
 
-</div>
-
-### 🎯 Core Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,php,js,html,css,mysql,git,github,linux,docker,kubernetes,aws,vscode&perline=16" />
 </p>
 
-### 🎨 Frontend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
-</p>
-
-### 🗄️ Backend & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysql&theme=dark" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github&theme=dark" />
-</p>
-
-### 🛠️ Tools & Environment
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,postman&theme=dark" />
-</p>
-
-### 🧠 Data Science & ML
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
+
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -116,28 +76,6 @@ const shubham = {
 
 <div align="center">
 
-## 🏆 GITHUB TROPHIES
-
-<img src="https://github-profile-trophy.vercel.app/?username=shubhamx18&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-## 📈 CONTRIBUTION GRAPH
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamx18&bg_color=0D1117&color=00f2ff&line=7000ff&point=ffffff&area_color=7000ff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%">
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
 ## 🐍 CONTRIBUTION SNAKE
 
 <picture>
@@ -148,16 +86,6 @@ const shubham = {
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-## 💡 RANDOM DEV QUOTE
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -175,26 +103,6 @@ const shubham = {
 
 <div align="center">
 
-## 💼 EXPERIENCE ROADMAP
-
-```mermaid
-graph LR
-    A[2022: Started B.E. CS] --> B[2023: Full-Stack Dev]
-    B --> C[2024: ML & Cloud]
-    C --> D[2025: Advanced Systems]
-    D --> E[2026: Industry Ready]
-    
-    style A fill:#7000ff,stroke:#00f2ff,color:#fff
-    style B fill:#7000ff,stroke:#00f2ff,color:#fff
-    style C fill:#7000ff,stroke:#00f2ff,color:#fff
-    style D fill:#00f2ff,stroke:#7000ff,color:#000
-    style E fill:#00f2ff,stroke:#7000ff,color:#000
-```
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
@@ -226,22 +134,6 @@ graph LR
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-
-## 🤝 LET'S CONNECT
-
-<p>
-  <i>💬 Feel free to reach out for collaborations or just a friendly chat!</i>
-  <br><br>
-  <a href="https://linkedin.com/in/shubham-mali-498362352" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shubhamx2004s@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://shubhamx18.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
-</p>
 
 <p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7000ff,00f2ff,7000ff,00f2ff,7000ff&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
