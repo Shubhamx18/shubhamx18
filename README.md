@@ -113,9 +113,9 @@ My interests sit at the intersection of **full-stack development**, **data**, an
       <br>Microservices & Cloud Architecture
     </td>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100px" alt="Tech">
-      <br><b>ML Pipelines</b>
-      <br>Data Intelligence & Analytics
+      <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100px" alt="DevOps">
+      <br><b>DevOps Pipelines</b>
+      <br>CI/CD • Automation • Cloud
     </td>
     <td align="center" width="33%">
       <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100px" alt="Learning">
@@ -124,6 +124,7 @@ My interests sit at the intersection of **full-stack development**, **data**, an
     </td>
   </tr>
 </table>
+
 
 </div>
 
