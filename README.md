@@ -89,16 +89,14 @@ My interests sit at the intersection of **full-stack development**, **data**, an
 
 <div align="center">
 
-## 🎵 SPOTIFY PLAYING
+## 🎵 Spotify Playing
 
-[![Spotify](https://novatorem-shubhamx18.vercel.app/api/spotify)](https://open.spotify.com/user/31l5bfo7wb3osgrd4pqzne7mhfge)
+<a href="https://open.spotify.com/user/31l5bfo7wb3osgrd4pqzne7mhfge">
+  <img src="https://novatorem-shubhamx18.vercel.app/api/spotify" alt="Spotify Now Playing" />
+</a>
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
 
 
 <div align="center">
