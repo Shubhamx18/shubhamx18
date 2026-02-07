@@ -58,7 +58,7 @@ My interests sit at the intersection of **full-stack development**, **data**, an
 ### 🚀 Technical Proficiency
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,php,js,html,css,mysql,git,github,linux,docker,kubernetes,aws,vscode&perline=16" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,kubernetes,aws,python,java,cpp,c,php,js,html,css,mysql,vscode&perline=16" />
 </p>
 
 <p align="center">
