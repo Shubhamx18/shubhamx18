@@ -129,18 +129,13 @@ My interests sit at the intersection of **full-stack development**, **data**, an
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/contribution-game-of-life/output/game-of-life-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/contribution-game-of-life/output/game-of-life.svg">
+  <img alt="GitHub Contribution Game of Life Animation" src="https://raw.githubusercontent.com/Platane/contribution-game-of-life/output/game-of-life.svg">
+</picture>
 
-<div align="center">
 
-## 🧠 CONTRIBUTION SIMULATION — GAME OF LIFE
-
-<img
-  src="https://github.com/Platane/contribution-game-of-life/raw/output/game-of-life.svg"
-  alt="github contribution game of life animation"
-/>
-
-</div>
 
 <div align="center">
 
