@@ -71,7 +71,7 @@ philosophy: |
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,php,html,css,mysql,mongodb,aws,docker,kubernetes,git,github,linux,vscode&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,php,html,css,mysql,mongodb,aws,docker,kubernetes,git,github,jenkins,githubactions,linux,vscode&perline=12" />
 </p>
 
 <div align="center">
@@ -83,6 +83,7 @@ philosophy: |
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 </div>
+
 
 <br>
 
