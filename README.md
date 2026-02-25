@@ -71,18 +71,10 @@ philosophy: |
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,php,html,css,mysql,mongodb,aws,docker,kubernetes,git,github,jenkins,githubactions,linux,vscode&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,php,html,css,mysql,mongodb,aws,docker,kubernetes,terraform,grafana,git,github,jenkins,githubactions,linux,vscode&perline=12" />
 </p>
 
-<div align="center">
 
-**Data Science & ML**  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-</div>
 
 
 <br>
