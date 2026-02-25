@@ -89,14 +89,10 @@ open_to:    [Collaborations, Open Source, Internships]
 ## 📊 GitHub Analytics
 
 <div align="center">
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shubhamx18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=6366f1&icon_color=F8D866&rank_icon=github&include_all_commits=true&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamx18&theme=tokyonight&hide_border=true&background=1F222E&stroke=6366f1&ring=6366f1&fire=F8D866&currStreakLabel=6366f1" />
-
 <br/>
-
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamx18&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=6366f1&text_color=FFFFFF&langs_count=8" />
-
 </div>
 
 <details>
@@ -106,6 +102,48 @@ open_to:    [Collaborations, Open Source, Internships]
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamx18&theme=tokyo-night&hide_border=true&bg_color=1F222E&color=6366f1&line=6366f1&point=F8D866" />
 </div>
 </details>
+
+<br/>
+
+## 🚀 Skills & Proficiency
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-90%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-80%25-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-75%25-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-70%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</div>
+
+```text
+💻 Languages
+Python        ████████████████████░░   90%
+Java          ████████████████░░░░░░   80%
+C++           ███████████████░░░░░░░   75%
+JavaScript    ██████████████░░░░░░░░   70%
+PHP           ███████████░░░░░░░░░░░   55%
+
+☁️ Cloud & DevOps
+AWS           ████████████████░░░░░░   80%
+Docker        ███████████████░░░░░░░   75%
+Kubernetes    █████████████░░░░░░░░░   65%
+Terraform     ████████████░░░░░░░░░░   60%
+Grafana       ████████████░░░░░░░░░░   60%
+Jenkins       ███████████░░░░░░░░░░░   55%
+
+🗄️ Databases
+MySQL         ████████████████░░░░░░   80%
+MongoDB       ██████████████░░░░░░░░   70%
+```
+
+<br/>
+
+**📈 Contribution Graph**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamx18&theme=tokyo-night&hide_border=true&bg_color=1F222E&color=6366f1&line=6366f1&point=F8D866" />
+</div>
 
 ---
 
