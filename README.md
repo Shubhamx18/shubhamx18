@@ -16,14 +16,14 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name        : Shubham Mali
+name : Shubham Mali
 current_focus:
   - Strengthening system design & backend fundamentals
   - Applying ML & data analysis to real problems
   - Mastering cloud infrastructure & containers
   - Building projects with real-world impact
 interests   : Full-Stack Dev | Cloud Architecture | DevOps & Automation | Data Engineering | System Design
-philosophy  : "Build for scale, deploy with confidence 🚀"
+To do  : "Build for scale, deploy with confidence 🚀"
 ```
 
 ---
