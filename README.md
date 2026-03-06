@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shubham%20Mali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Cloud%20Architect%20%7C%20DevOps%20Engineer&descSize=18&descAlignY=62&descColor=a78bfa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shubham%20Mali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Computer%20Engineering%20Student%20%7C%20Web%20%26%20Java%20Dev%20%7C%20Python%20%26%20AI%2FML%20Enthusiast%20%7C%20Cloud%20%26%20DevOps%20Learner&descSize=15&descAlignY=62&descColor=a78bfa"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=🚀+Building+software+that+scales;☁️+Cloud+%7C+DevOps+%7C+Backend+%7C+Full-Stack;🔧+From+code+to+production+pipelines;📊+Data-driven+%26+system-design+focused)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=🎓+Computer+Engineering+Student;💻+Web+%26+Java+Developer;🐍+Python+%26+AI%2FML+Enthusiast;☁️+AWS+%7C+Docker+%7C+Cloud+%26+DevOps+Learner)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-mali-498362352)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://shubhamx18.github.io/)
@@ -15,16 +15,11 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-name : Shubham Mali
-current_focus:
-  - Strengthening system design & backend fundamentals
-  - Applying ML & data analysis to real problems
-  - Mastering cloud infrastructure & containers
-  - Building projects with real-world impact
-interests   : Full-Stack Dev | Cloud Architecture | DevOps & Automation | Data Engineering | System Design
-To do  : "Build for scale, deploy with confidence 🚀"
-```
+🎓 Computer Engineering Student who loves building real-world software.
+Working with **Java, Python & Web technologies** while actively learning **AWS, Docker, Kubernetes and DevOps** tools.
+Always building projects that actually matter.
+
+
 
 ---
 
@@ -33,7 +28,7 @@ To do  : "Build for scale, deploy with confidence 🚀"
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,mysql,mongodb,aws,docker,kubernetes&perline=12" />
-<img src="https://skillicons.dev/icons?i=terraform,ansible,grafana,prometheus,git,github,jenkins,githubactions,linux,vscode&perline=12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" width="48" height="48" title="ArgoCD"/>
+<img src="https://skillicons.dev/icons?i=terraform,ansible,grafana,prometheus,git,github,jenkins,githubactions,linux,vscode&perline=12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" width="48" height="48" title="ArgoCD"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" width="48" height="48" title="SonarQube"/><img src="https://raw.githubusercontent.com/aquasecurity/trivy-docker-extension/main/trivy.svg" width="48" height="48" title="Trivy"/>
 
 </div>
 
