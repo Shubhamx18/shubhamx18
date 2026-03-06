@@ -31,9 +31,10 @@ philosophy  : "Build for scale, deploy with confidence 🚀"
 ## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,mysql,mongodb,aws,docker,kubernetes,terraform,ansible,grafana,prometheus,git,github,jenkins,githubactions,linux,vscode&perline=12" />
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" width="48" height="48" title="ArgoCD"/>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,mysql,mongodb,aws,docker,kubernetes&perline=12" />
+<img src="https://skillicons.dev/icons?i=terraform,ansible,grafana,prometheus,git,github,jenkins,githubactions,linux,vscode&perline=12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" width="48" height="48" title="ArgoCD"/>
+
 </div>
 
 ---
