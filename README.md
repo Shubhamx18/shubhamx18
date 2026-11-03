@@ -13,7 +13,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 🎓 Computer Engineering Student who loves building real-world software.
 Working with **Java, Python & Web technologies** while actively learning **AWS, Docker, Kubernetes and DevOps** tools.
@@ -21,7 +21,7 @@ Always building projects that actually matter.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -32,7 +32,7 @@ Always building projects that actually matter.
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
